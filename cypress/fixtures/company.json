@@ -1,0 +1,27 @@
+{
+  "symbol": "AAPL",
+  "companyName": "Apple Inc",
+  "exchange": "NASDAQ",
+  "industry": "Electronic Computer Manufacturing ",
+  "website": "https://www.apple.com/",
+  "description": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California.",
+  "CEO": "Timothy Cook",
+  "securityName": "Apple Inc",
+  "issueType": "cs",
+  "sector": "Manufacturing",
+  "primarySicCode": 3571,
+  "employees": 147000,
+  "tags": [
+    "Electronic Technology",
+    "Telecommunications Equipment",
+    "Manufacturing",
+    "Electronic Computer Manufacturing "
+  ],
+  "address": "1 Apple Park Way",
+  "address2": null,
+  "state": "California",
+  "city": "Cupertino",
+  "zip": "95014-0642",
+  "country": "US",
+  "phone": "14089961010"
+}

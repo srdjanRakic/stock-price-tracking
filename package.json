@@ -1,0 +1,42 @@
+{
+  "name": "stock-price-tracking",
+  "homepage": "https://srdjanRakic.github.io/stock-price-tracking",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@emotion/react": "^11.8.1",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.4.4",
+    "@mui/material": "^5.4.4",
+    "@reduxjs/toolkit": "1.5.0",
+    "@types/react-redux": "7.1.16",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-redux": "7.2.2",
+    "react-scripts": "4.0.3",
+    "react-use": "^17.3.2"
+  },
+  "devDependencies": {
+    "@mui/types": "^7.1.2",
+    "@testing-library/cypress": "^8.0.2",
+    "@types/react": "17.0.0",
+    "@types/react-dom": "17.0.0",
+    "cypress": "^9.5.1",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "test:e2e": "cypress open"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
